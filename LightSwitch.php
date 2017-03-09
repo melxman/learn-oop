@@ -25,4 +25,4 @@ class LightSwitch
 }
 
  $light = new LightSwitch();
-$light->();
+ $light->on();
